@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="Python 3.6.1 (E:\python\python.exe)" project-jdk-type="Python SDK" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="django" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" default="false" project-jdk-name="Python 3.6 (crawler) (1)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
 </project>
